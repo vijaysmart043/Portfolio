@@ -1,0 +1,15 @@
+export const TECH_STACK = [
+  "python",
+  "java",
+  "javascript",
+  "html5",
+  "css3",
+  "mongodb",
+  "mysql",
+  "react",
+  "nodejs",
+  "amazonaws",
+  "git",
+  "github",
+  "visualstudiocode",
+]
