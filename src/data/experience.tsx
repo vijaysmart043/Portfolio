@@ -130,7 +130,7 @@ export const EXPERIENCE_TIMELINE = [
     content: (
       <div>
         <p className="text-neutral-800 dark:text-neutral-200 text-sm md:text-base font-normal mb-8">
-          Throughout my academic journey, I've completed multiple internships and certifications:
+          Throughout my academic journey, I&#39;ve completed multiple internships and certifications:
         </p>
 
         <div className="mb-8">
